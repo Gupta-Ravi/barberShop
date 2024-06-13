@@ -47,7 +47,7 @@ This project utilizes the following technologies:
 
 ## 📺 Tutorial
 
-For a step-by-step tutorial on building this Website, check out the video [here](https://youtu.be/G0jO8kUrg-I?si=_WOzdKNtL7RAN3Yv).
+For a step-by-step tutorial on building this Website, check out the video [here](https://youtu.be/lBfshkPlMW8).
 
 
 ## 📸 Screenshots
@@ -64,4 +64,4 @@ This project is licensed under the MIT License
 
 ---
 
-Thank you for checking out the To-Do App! Happy coding! 🎉
+Thank you for checking out the Website! Happy coding! 🎉
