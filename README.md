@@ -11,7 +11,7 @@ This repository contains the code for a simple yet stylish barber shop website, 
 
 ## 🌐 Visit App
 
-You can view a live demo of the app [here](https://gupta-ravi.github.io/barberShop/).
+You can view a live demo of the website [here](https://gupta-ravi.github.io/barberShop/).
 
 
 ## 💻 Technologies Used
@@ -47,12 +47,12 @@ This project utilizes the following technologies:
 
 ## 📺 Tutorial
 
-For a step-by-step tutorial on building this To-Do App, check out the video [here](https://youtu.be/G0jO8kUrg-I?si=_WOzdKNtL7RAN3Yv).
+For a step-by-step tutorial on building this Website, check out the video [here](https://youtu.be/G0jO8kUrg-I?si=_WOzdKNtL7RAN3Yv).
 
 
 ## 📸 Screenshots
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/screenshot.jpeg)
 
 ## 👏 Contributing
 
